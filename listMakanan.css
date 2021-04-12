@@ -1,0 +1,39 @@
+.Makanan{
+    display: flex;
+    flex-wrap: wrap;
+}
+.listMakanan{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+    float: left;
+
+}
+#getImage1{
+    width: 150px;
+    margin-left: 20px;
+}
+
+.image2{
+    width: 150px;
+    margin-left: 30px;
+}
+
+.image3{
+    width: 150px;
+    height: 100px;
+    margin-left: 30px;
+
+}
+
+.image4{
+    width: 150px;
+    height: 100px;
+    margin-left: 30px;
+
+}
+.content{
+    margin-top: auto;
+    margin-left: 20px;
+}
